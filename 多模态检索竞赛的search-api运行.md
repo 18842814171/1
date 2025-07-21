@@ -1,0 +1,2 @@
+https://www.aicrowd.com/challenges/meta-crag-mm-challenge-2025  竞赛页面
+https://gitlab.aicrowd.com/aicrowd/challenges/meta-comprehensive-rag-benchmark-kdd-cup-2025/meta-comprehensive-rag-benchmark-starter-kit  starter-kit
